@@ -57,3 +57,21 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Evidencia de los CRUDs (Capturas del Sistema)
+
+Como evidencia del correcto funcionamiento del sistema StockApp SENA, a continuación se presentan los diferentes módulos en producción:
+
+### Módulos Principales:
+
+![CRUD 1](.assets/crud_1.png)
+
+![CRUD 2](.assets/crud_2.png)
+
+![CRUD 3](.assets/crud_3.png)
+
+![CRUD 4](.assets/crud_4.png)
+
+![CRUD 5](.assets/crud_5.png)
+

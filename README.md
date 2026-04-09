@@ -65,13 +65,8 @@ Como evidencia del correcto funcionamiento del sistema StockApp SENA, a continua
 
 ### Módulos Principales:
 
-![CRUD 1](.assets/crud_1.png)
+![Captura 1](.assets/captura1.png)
 
-![CRUD 2](.assets/crud_2.png)
+![Captura 2](.assets/captura2.png)
 
-![CRUD 3](.assets/crud_3.png)
-
-![CRUD 4](.assets/crud_4.png)
-
-![CRUD 5](.assets/crud_5.png)
-
+![Captura 3](.assets/captura3.png)
